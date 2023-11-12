@@ -4,9 +4,9 @@ _（计网指《计算机组成原理》和《计算机网络原理》）_
 
 成员：
 
-- 涂轶翔 @Tuyixiang
-- 王征翊 @thuwzy
-- 赵成钢 @LyricZhao
+- 涂轶翔 [@Tuyixiang](https://github.com/Tuyixiang)
+- 王征翊 [@thuwzy](https://github.com/thuwzy)
+- 赵成钢 [@LyricZhao](https://github.com/LyricZhao)
 
 完整报告：
 
@@ -18,15 +18,11 @@ _（计网指《计算机组成原理》和《计算机网络原理》）_
 
 使用 FPGA 开发板实现了 mips32 CPU 以及路由器。
 
-<figure class="image">
-  <img src="reports/img/开发板结构.png">
-  <figcaption>FPGA 开发板结构</figcaption>
-</figure>
+FPGA 开发板结构
+![FPGA 开发板结构](reports/img/开发板结构.png)
 
-<figure class="image">
-  <img src="reports/img/整体架构.png">
-  <figcaption>实现框架</figcaption>
-</figure>
+实现框架
+![实现框架](reports/img/整体架构.png)
 
 ### 框架逻辑
 
